@@ -172,10 +172,8 @@ def contrast_stretching_color_image_function(img, a, b, c, d):
 def contrast_stretching_method():
     img = cv2.imread('car.png', cv2.IMREAD_COLOR)
 
-    # Convert the image to RGB for displaying with Matplotlib
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
-    # Calculate the histograms of the original and contrast-stretched images
     orig_hist_r, _ = np.histogram(img[:, :, 0], bins=256, range=(0, 255))
     orig_hist_g, _ = np.histogram(img[:, :, 1], bins=256, range=(0, 255))
     orig_hist_b, _ = np.histogram(img[:, :, 2], bins=256, range=(0, 255))
@@ -185,7 +183,7 @@ def contrast_stretching_method():
     stretched_hist_g, _ = np.histogram(stretched_img[:, :, 1], bins=256, range=(0, 255))
     stretched_hist_b, _ = np.histogram(stretched_img[:, :, 2], bins=256, range=(0, 255))
 
-    # Plot the images and histograms
+
     fig, axs = plt.subplots(nrows=2, ncols=2, figsize=(10, 10))
 
     axs[0, 0].imshow(img)
