@@ -1,0 +1,41 @@
+I would like to [create](create) [task](task) Daily scrum meeting.
+[create](create) [task](task) Daily scrum meeting.
+please [create](create) [task](task) Deploy our application to VPS.
+please [create](create) meeting with goverment about plan for next year [task](task).
+[create](create) weekly meeting with abc team [task](task)
+[create](create) Daily scrum meeting [task](task).
+[check](check) [in](in) Daily scrum meeting [task](task).
+[check](check) [in](in) Daily scrum meeting [task](task).
+[check](check) [in](in) meeting with customer from US [task](task)
+[check](check) [in](in) Add new button on Search task page [task](task)
+[check](check) [in](in) Review pull request from team members [task](task)
+[check](check) [out](out) [task](task) Daily scrum meeting.
+[check](check) [out](out) [task](task) Daily scrum meeting.
+i want to [create](create) a \"Daily scrum\" [task](task).
+i want to [create](create) [task](task) Daily scrum meeting.
+i need to [create](create) [task](task) Daily scrum meeting.
+[Start](check_in) \"Daily scrum meeting\" [task](task).
+[start](check_in) handle fresh desk case 1 [task](task).
+[start](check_in) deploy AI to vps [task](task).
+[start](check_in)[task](task) update transfomer package to latest version.
+[Stop](check_out) \"Daily scrum meeting\" [task](task).
+[Begin](check_in) \"Daily scrum meeting\" [task](task).
+I would like to [begin](check_in) \"Daily scrum meeting\" [task](task).
+I would like to [begin](check_in) extract report to client for this month [task](task).
+I am going to [begin](check_in) purchase all equipment for new team [task](task).
+[End](check_out) \"Daily scrum meeting\" [task](task).
+[Finish](check_out) \"Daily scrum meeting\" [task](task).
+[Complete](check_out) \"Daily scrum meeting\" [task](task).
+[i am going](check_out) home [now](now).
+[i'm going home](check_out) [now](now).
+[i'm going to](check_out) have lunch [now](now)
+[i am going to](check_out) have lunch [now](now)
+[i'm going to](check_out) playsoccer [now](now).
+[i'm going to](check_out) do karate [now](now).
+[i'm going to](check_out) do home work [now](now).
+[i'm going to](check_out) do home jobs [now](now).
+[create a new](create) [task](task) meeting with customer from US
+[create a new](create) [task](task) Add new button on Search task page
+[create a new](create) [task](task) Review pull request from team members
+[create a new](create) [task](task) Add new Handller to handle event from user when click on mic button
+[create a new](create) [task](task) weekly meeting with team members from UK

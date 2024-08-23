@@ -1,0 +1,41 @@
+Jeg ønsker å [opprette](create) [oppgave](task) Alle vil bygge plattform.
+[Opprette](create) [oppgave](task) Prioriter verdiskapningen.
+Vennligst [opprette](create) [oppgave](task) Lunsj er et naturlig avbrekk for de fleste. 
+Vennligst [opprette](create) Skreddersy med egen kodebase [oppgave](task)
+[Opprette](create) Registrer nytt kurs for utvikler [oppgave](task).
+[Opprette](create) Implementer nytt API for å håndtere rapportering [oppgave](task).
+[Logg](check) [på](in) Private kodebaser kan enten ligge på egne servere [oppgave](task).
+[Logg](check) [på](in) Trekk ut timelisterapport [oppgave](task).
+[Logg](check) [på](in) Legg til autentiseringsstøtte for api [oppgave](task).
+[Logg](check) [på](in) Bygg ny versjon for testavdelingen [oppgave](task).
+[Logg](check) [på](in) Legg til loggingsfunksjoner [oppgave](task).
+[Logg](check) [av](out) [oppgave](task) Daglig møte med team.
+[Logg](check) [av](out) [oppgave](task) Kjøp ny bærbar datamaskin for teammedlemmer.
+Jeg vil [opprette](create) Distribuer ny modell til api [oppgave](task).
+Jeg vil [opprette](create) [oppgave](task) Møte med salgsteam i Oslo.
+Jeg vil [opprette](create) [oppgave](task) Filtrer prosjektliste basert på bruker-ID. 
+[Start](check_in) Møte med salgsteam i Oslo [oppgave](task).
+[Start](check_in) distribuer AI til dedikert server [oppgave](task).
+[Start](check_in) Generer nytt sertifikat for bedrift [oppgave](task).
+[Start](check_in) [oppgave](task) Last opp applikasjonen til App Store for gjennomgang.
+[Stopp](check_out) Last opp applikasjonen til App Store for gjennomgang [oppgave](task).
+[Stopp](check_out) [oppgave](task) Gjennomgå pull-forespørsler fra teamet.
+[Start](check_in) Endre skriftstørrelse for hjemmesiden [oppgave](task).
+[Stopp](check_out) [oppgave](task) Daglig møte med team.
+Jeg ønsker å [begynne på](check_in) Daglig møte med team [oppgave](task).
+Jeg ønsker å [begynne på](check_in) [oppgave](task) Daglig møte med team.
+Jeg ønsker å [begynne på](check_in) [oppgave](task) Slipp ny versjon for applikasjon.
+[Avslutt](check_out) Last opp applikasjonen til Google Play for gjennomgang [oppgave](task).
+[Avslutt](check_out) Oppgrader all pakke til siste versjon [oppgave](task).
+[Fullfør](check_out) Oppdater SQL-skript for rapportfunksjon [oppgave](task).
+[Jeg drar](check_out) hjem [nå](now).
+[Jeg drar](check_out) hjem [nå](now).
+[Jeg tar](check_out) lunsj [nå](now).
+[Jeg drar](check_out) spille tennis [nå](now).
+[Jeg drar](check_out) på karatetrening [nå](now).
+[Jeg drar](check_out) gå på shopping [nå](now).
+[Opprette en ny](create) [oppgave](task) Biden kritiserer Netanyahu.
+[Opprette en ny](create) [oppgave](task) Auth0 ble for dyrt.
+[Opprette en ny](create) [oppgave](task) Krasjene er fiksa, nå kan du trygt oppdatere Mac-en.
+[Opprette en ny](create) [oppgave](task) Advarer mot å oppgradere MacOS.
+[Opprette en ny](create) [oppgave](task) Går fra fullstack til backend.

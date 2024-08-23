@@ -1,0 +1,46 @@
+Tôi muốn [tạo](create) [nhiệm vụ](task) Họp hàng ngày cùng nhóm.
+[tạo](create) [nhiệm vụ](task) Họp hàng ngày cùng nhóm.
+[tạo](create) [công việc](task) Triển khai ứng dụng lên vps.
+[tạo](create) [công việc](task) Họp với khách hàng cho kế hoạch năm tới.
+[tạo](create) [nhiệm vụ](task) Họp hàng tuần cùng nhóm dự án ABC.
+[tạo](create) [công việc](task) Xuất báo cáo cho quý 4.
+[tạo](create) [công việc](task) Triển khai ứng dụng lên vps.
+[tạo](create) [công việc](task) Họp với khách hàng cho kế hoạch năm tới.
+[tạo](create) [công việc](task) Xuất báo cáo cho quý 24.
+[tạo](create) [công việc](task) Triển khai ứng dụng lên vps tại ISP.
+[tạo](create) [công việc](task) Họp với khách hàng cho kế hoạch triển khai dự án mới.
+[tạo](create) [công việc](task) Xuất báo cáo cho quý 43.
+[tạo](create) [task](task) Thêm nút cho màn hình check in.
+[đăng ký](check) [vào](in) [công việc](task) Họp hàng ngày với thành viên dự án.
+[đăng ký](check) [vào](in) [công việc](task) Họp hàng tuần với thành viên dự án.
+[đăng ký](check) [vào](in) [công việc](task) Xuất báo cáo cho quý 3.
+[đăng ký](check) [vào](in) [công việc](task) Soạn hợp đồng cho khách hàng ABC.
+[đăng ký](check) [vào](in) [công việc](task) Review pull request của member A.
+[xong](check_out) [công việc](task) Họp với khách hàng cho kế hoạch năm tới.
+[xong](check_out) [công việc](task) Họp hàng tuần cùng nhóm dự án ABC.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 1.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 2.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 3.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 4.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 5.
+[bắt đầu làm](check_in) [công việc](task) Hoàn tất báo cáo cho quý 6.
+[làm](check_in) [công việc](task) Mua sắm đồ dùng văn phòng cho cty. 
+[làm](check_in) [nhiệm vụ](task) Mua sắm đồ dùng văn phòng cho cty.
+[làm](check_in) [task](task) Dọn dep ổ cứng trước khi triển khai ứng dụng mới.
+[làm](check_in) [task](task) Thay mực máy in.
+[làm](check_in) [task](task) Sửa các bóng điện bị hỏng ở khoang A.
+[Hoàn tất](check_out) [nhiệm vụ](task) Cài lại hệ điều hành windows 98.
+[Hoàn tất](check_out) [nhiệm vụ](task) Đi lại dây mạng cho nhóm dự án A.
+[Hoàn tất](check_out) [nhiệm vụ](task) Thay ổ khóa của phòng server.
+[Hoàn tất](check_out) [công việc](task) Sửa máy lọc không khí.
+[Hoàn tất](check_out) [công việc](task) Hút hầm cầu tầng 6.
+[Hoàn tất](check_out) [công việc](task) Đi lại dây mạng cho khoang B.
+[Hoàn tất](check_out) [công việc](task) Gắn thêm ít bóng điện cho tầng 2.
+[xong](check_out) [công việc](task) Họp với dự án A.
+[xong](check_out) [công việc](task) Họp với dự án B.
+[xong](check_out) [công việc](task) Họp với dự án C.
+[xong](check_out) [công việc](task) Họp với dự án D.
+[xong](check_out) [việc](task) Thực hiện báo cáo cho quý 1.
+[xong](check_out) [việc](task) Thực hiện báo cáo cho quý 2.
+[xong](check_out) [việc](task) Thực hiện báo cáo cho quý 3.
+[xong](check_out) [việc](task) Thực hiện báo cáo cho quý 4.
