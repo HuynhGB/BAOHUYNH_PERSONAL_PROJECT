@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="index.css">
+  <title>HASH TECHIE OFFICIAL</title>
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section>
+        <div class="form-box">
+            <div class="form-value">
+                <form action="">
+                    <h2>CHECK-OUT SECTION</h2>
+                    <div class="inputbox">
+                        <input type="email" required>
+                        <label for="">Room code</label>
+                    </div>
+                    <div class="inputbox">
+                        <ion-icon name="fas fa-cloud"></ion-icon>
+                        <input type="password" required>
+                        <label for="">Price</label>
+                    </div>
+                    <div style="padding-top: 15px;padding-bottom: 15px;margin-bottom: 10px;">
+                            <h7>Enter check-in date</h7>
+                            <input type="date" name="bday" max="1979-12-31" style="margin-left: 20px;background: transparent;border-radius: 20px;padding:5px;color: #fff;">
+                    </div>
+                    <div>
+                            <h7>Enter check-out date</h7>
+                            <input type="date" name="bday" max="1979-12-31" style="margin-left: 10px;background: transparent;border-radius: 20px;padding:5px;color: #fff;">
+                    </div>
+                    <div style="padding-top: 30px;padding-left: 5px;color: #fff;">
+                        <label>Choose available room</label>
+                        <select style="margin-left: 10px;background: transparent;border-radius: 20px;padding:5px;color: #fff;">
+                            <option selected style="color: black;">Room 101</option>
+                            <option style="color: black;">Room 102</option>
+                            <option style="color: black;">Room 103</option>
+                            <option style="color: black;">Room 104</option>
+                          </select>
+                    </div>
+                    <div style="padding-top: 30px;padding-left: 5px;color: #fff;">
+                        <label>Choose ID of customer</label>
+                        <select  style="margin-left: 25px;background: transparent;border-radius: 20px;padding:5px;color: #fff;">
+                            <option selected style="color: black;">
+                                <button onclick="myFunction();">CV201</button>
+                            </option>
+                            <option style="color: black;">CV202</option>
+                            <option style="color: black;">CV203</option>
+                            <option style="color: black;">CV204</option>
+                          </select>
+                    </div>
+                    <div style="padding-top: 30px;">
+                        <button>SEARCH</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="form-box1">
+        </div>
+    </section>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js">
+    </script>
+    <script >
+        function myFunction() {
+        document.getElementById("name").innerHTML = "Xin chào các bạn";
+    }
+    </script>
+</body>
+</html>
